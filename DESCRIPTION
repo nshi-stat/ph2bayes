@@ -1,0 +1,15 @@
+Package: ph2bayes
+Type: Package
+Title: Bayesian Single-Arm Phase II Designs
+Version: 0.0.1
+Author: Kengo NAGASHIMA
+Maintainer: Kengo NAGASHIMA <nshi@chiba-u.jp>
+Description: An implementation of Bayesian single-arm phase II
+    design methods for binary outcome based on posterior
+    probability and predictive probability.
+License: GPL-3
+Imports:
+    stats,
+    Rcpp (>= 0.12.3)
+LinkingTo: Rcpp
+RoxygenNote: 5.0.1
