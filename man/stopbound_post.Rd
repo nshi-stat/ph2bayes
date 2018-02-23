@@ -44,4 +44,3 @@ Yin, G. (2012).
 \emph{Clinical Trial Design: Bayesian and Frequentist Adaptive Methods.}
 New York: Wiley.
 }
-
