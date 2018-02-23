@@ -6,9 +6,6 @@
 #' Thall and Simon (Biometrics 1994),
 #' Lee and Liu (Clinical Trials 2008).
 #'
-#' @author
-#' Author & Maintainer: Kengo NAGASHIMA <\email{nshi@@chiba-u.jp}>
-#'
 #' @name ph2bayes-package
 #' @rdname package-ph2bayes
 #' @aliases ph2bayes
@@ -16,5 +13,5 @@
 #' @keywords htest design package
 #'
 #' @importFrom Rcpp evalCpp
-#' @useDynLib ph2bayes
+#' @useDynLib ph2bayes, .registration = TRUE
 NULL
